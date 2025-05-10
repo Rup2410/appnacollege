@@ -1,5 +1,5 @@
 # appnacollege
-This is my firsst git repository
+This is my first git repository
 <br>
 Author-Rupak
 
